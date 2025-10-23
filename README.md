@@ -4,11 +4,12 @@ A lightweight **Next.js + TypeScript + Tailwind** web app that converts any **Jo
 
 Works **with or without an OpenAI API key**:
 - ✅ With API key → uses GPT model for extraction
-- ✅ Without key → uses deterministic **fallback parser** (regex + keyword map)
+- ✅ Without key → uses deterministic **fallback parser** 
 
 # Set up environment variables
 You will need to add the following environment variables to your .env file
 
 "OPENAI_API_KEY"
+
 
 
